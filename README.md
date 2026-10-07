@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muhammad Haroon
 
-### 💻 Associate Software Engineer | Frontend Developer | Full-Stack Enthusiast
+### 💻 Associate Software Engineer | QA Engineer | Full-Stack Enthusiast
 
 I’m a passionate software engineer focused on building scalable, high-performance web applications using modern JavaScript frameworks. I enjoy turning ideas into clean, functional, and user-friendly digital experiences.
 
